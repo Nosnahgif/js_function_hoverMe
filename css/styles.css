@@ -1,0 +1,21 @@
+.hidden {
+    display: none;
+}
+
+
+#picSwap {
+    width: 350px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    margin-top: 10em;
+    margin-left: 30em;
+}
+
+h1 {
+    margin-left: 14em;
+}
+#picSwap:hover {
+    cursor: pointer;
+}
